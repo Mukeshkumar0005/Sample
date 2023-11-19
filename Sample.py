@@ -1,4 +1,5 @@
-a=1
-b=1
-print(a+b)
-print(a-b)
+num1 = 1
+num2 = 1
+
+sum = num1 + num2
+print(sum)
